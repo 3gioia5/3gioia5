@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=JIYUN%20HAN%20(gioia)&fontSize=40)
 <p align="center">Learning <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> now @ Republic of KOREA</p>
-<p align="center">can speak KOR, ENG, ITA</p>
+<p align="center">Able to speak KOR, ENG, ITA</p>
 
 
 <h3 align="center">:pencil2: SKILL </h3>
